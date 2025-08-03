@@ -2,6 +2,10 @@
 
 This repo provides offline tools to determine whether a guest's address (US ZIP or Canadian postal code) is within **100 miles** of their departure airport. Designed for integration with **Power Automate Desktop (PAD)** or manual CLI use.
 
+Latest update: August 3, 2025.
+
+This project is not actively maintained on a regular schedule. However, the data sources listed below are updated monthly by their providers. If you plan to use this tool for your own workflow, be sure to manually download and update the datasets as needed. Be mindful to preserve the original file structure and naming conventions to ensure compatibility with the included scripts, or modify the scripts accordingly.
+
 ---
 
 ## 📦 What's Included
