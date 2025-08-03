@@ -1,0 +1,42 @@
+# macOS system files
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.*
+
+# macOS Trash
+.Trashes
+
+# VS Code
+.vscode/
+
+# Python (if ever used)
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# JetBrains IDEs
+.idea/
+
+# Misc
+*.swp
+*.swo
+
